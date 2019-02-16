@@ -6,7 +6,7 @@ CBOR (Concise Binary Object Representation) RFC7049 implementation
 
 ## По русски
 
-реализация CBOR на C с примесью С++
+реализация CBOR на C с примесью С++. внешних зависимостей нет.
 
 Полное описание CBOR находится в RFC7049 - https://tools.ietf.org/html/rfc7049 (на английском языке)
 Описание на руском языке - https://habr.com/post/208690/
